@@ -4,7 +4,7 @@
   "private": true,
   "description": "LineProof example: event ticketing queue with anti-scalping escrow",
   "scripts": {
-    "start": "echo \"See README.md for integration instructions\""
+    "start": "node init && echo \"See README.md for integration instructions\""
   },
   "dependencies": {
     "@lineproof/sdk": "workspace:*"

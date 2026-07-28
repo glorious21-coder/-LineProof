@@ -4,7 +4,7 @@
   "private": true,
   "description": "LineProof example: visa appointment queue with privacy-preserving identity commitment",
   "scripts": {
-    "start": "echo \"See README.md for integration instructions\""
+    "start": "node init && echo \"See README.md for integration instructions\""
   },
   "dependencies": {
     "@lineproof/sdk": "workspace:*"

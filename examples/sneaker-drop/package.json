@@ -4,7 +4,7 @@
   "private": true,
   "description": "LineProof example: limited sneaker drop queue",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node init && node src/index.js"
   },
   "dependencies": {
     "@lineproof/sdk": "workspace:*"
